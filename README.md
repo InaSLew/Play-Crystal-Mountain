@@ -9,3 +9,14 @@ Crystal Mountain is a side-scrolling runner where the player dodges 3 different 
 ## How to play
 - Space to jump over ice spikes
 - Left ctrl to duck
+
+
+
+
+https://user-images.githubusercontent.com/26838345/147760968-c57f7c40-1e6f-46d5-8c5e-80057eeeae01.mp4
+
+
+
+
+https://user-images.githubusercontent.com/26838345/147761018-90e20e66-ef38-4158-924f-af400249aef9.mp4
+
