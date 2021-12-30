@@ -11,7 +11,7 @@
 - Left ctrl to duck
 
 ## About
-Crystal Mountain is a side-scrolling runner where the player dodges 3 different kinds of ice spikes through jumping and docking. The numebr of ice spikes to overcome to win is randomized upon every new game, between 20, 30, 40 and 50.
+Crystal Mountain is a side-scrolling runner where the player dodges 3 different kinds of ice spikes through jumping and ducking. The number of ice spikes to overcome to win is randomized upon every new game, between 20, 30, 40 and 50.
 
 
 
