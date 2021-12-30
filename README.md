@@ -1,4 +1,6 @@
-# Crystal Mountain
+
+# Crystal Mountain 
+![Crytal Mountain thumbnail image](https://raw.githubusercontent.com/InaSLew/Play-Crystal-Mountain/main/thumbnail.png)
 
 ## About
 
