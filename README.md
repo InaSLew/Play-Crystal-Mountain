@@ -6,6 +6,7 @@
 [Play](https://inaslew.github.io/Play-Crystal-Mountain/)
 
 ## How to play
+- WASD and enter to navigate in the start menu
 - Space to jump over ice spikes
 - Left ctrl to duck
 
