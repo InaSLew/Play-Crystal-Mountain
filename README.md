@@ -2,13 +2,15 @@
 # Crystal Mountain 
 ![Crytal Mountain thumbnail image](https://raw.githubusercontent.com/InaSLew/Play-Crystal-Mountain/main/thumbnail.png)
 
-## About
-
-Crystal Mountain is a side-scrolling runner where the player dodges 3 different kinds of ice spikes through jumping and docking. The numebr of ice spikes to overcome to win is randomized upon every new game, between 20, 30, 40 and 50.
+## Play it here
+[Play](https://inaslew.github.io/Play-Crystal-Mountain/)
 
 ## How to play
 - Space to jump over ice spikes
 - Left ctrl to duck
+
+## About
+Crystal Mountain is a side-scrolling runner where the player dodges 3 different kinds of ice spikes through jumping and docking. The numebr of ice spikes to overcome to win is randomized upon every new game, between 20, 30, 40 and 50.
 
 
 
